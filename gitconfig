@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = farzadkarimi.pg@gmail.com
+	name = Farzad Karimi
